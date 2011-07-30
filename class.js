@@ -62,9 +62,8 @@
     
     return Class;
   };
-
+  
   if (typeof exports != 'undefined' && exports != null) {
     exports.Class = Class;
   }
-
 })();
