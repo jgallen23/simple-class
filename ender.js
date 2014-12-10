@@ -1,1 +1,1 @@
-$.ender({ Class: Class });
+$.ender({ Class: require('simple-class').Class });
